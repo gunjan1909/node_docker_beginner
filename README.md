@@ -25,6 +25,11 @@
 
 `docker login`
 
+#### Pull image from docker hub
+
+`docker pull <image_name>:<version>`
+`docker pull gunjan1909/node_docker_beginner:0.0.1`
+
 ##### Push the image to docker hub
 
 `docker push <image_name>:<version>`
